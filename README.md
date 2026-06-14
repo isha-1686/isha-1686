@@ -25,9 +25,6 @@ Full-Stack Developer  • Cloud & DevOps Enthusiast
 
 ## 🚀 Featured Projects
 
-### 🌐 Disaster Prep AR
-AR-powered disaster preparedness platform with interactive learning experiences.
-
 ### 📰 Localized News Explorer
 Region-based news exploration platform with intelligent filtering and visualization.
 
