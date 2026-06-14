@@ -22,27 +22,37 @@ Full-Stack Developer  • Cloud & DevOps Enthusiast
 - MLOps
 
 ---
+## 🚀 Featured Project
 
-## 🚀 Featured Projects
+### 🔗 URL Shortener — Full-Stack DevOps Project
 
-🔗 URL Shortener (Full-Stack + DevOps)
+A production-ready URL shortening platform built with a modern full-stack architecture and automated deployment pipeline.
 
-A production-ready URL shortener built using FastAPI, React, PostgreSQL, Docker, Render and GitHub Actions.
+#### ✨ Highlights
 
-🌐 Live Demo: https://url-shortener-1-ww94.onrender.com
+- 🔗 Convert long URLs into short, shareable links
+- ⚡ FastAPI-powered REST API backend
+- 🎨 Responsive React + Vite frontend
+- 🗄️ PostgreSQL database integration
+- 🐳 Fully containerized using Docker
+- 🚀 Deployed on Render
+- 🔄 Automated CI/CD using GitHub Actions
 
-⚡ API: https://url-shortener-v5xu.onrender.com
+#### 🌐 Live Links
 
-📂 Repository: https://github.com/isha-1686/url-shortener
+- **Frontend:** https://url-shortener-1-ww94.onrender.com
+- **API:** https://url-shortener-v5xu.onrender.com
+- **Repository:** https://github.com/isha-1686/url-shortener
 
-Tech Stack
+#### 🛠️ Tech Stack
 
-
-
-
-
-
-![GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ### 📰 Localized News Explorer
 Region-based news exploration platform with intelligent filtering and visualization.
