@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isha Katiyar</h1>
 
 <h3 align="center">
-Full-Stack Developer • Open Source Contributor • Cloud & DevOps Enthusiast
+Full-Stack Developer  • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
