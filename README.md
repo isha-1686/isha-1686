@@ -25,6 +25,25 @@ Full-Stack Developer  • Cloud & DevOps Enthusiast
 
 ## 🚀 Featured Projects
 
+🔗 URL Shortener (Full-Stack + DevOps)
+
+A production-ready URL shortener built using FastAPI, React, PostgreSQL, Docker, Render and GitHub Actions.
+
+🌐 Live Demo: https://url-shortener-1-ww94.onrender.com
+
+⚡ API: https://url-shortener-v5xu.onrender.com
+
+📂 Repository: https://github.com/isha-1686/url-shortener
+
+Tech Stack
+
+
+
+
+
+
+![GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ### 📰 Localized News Explorer
 Region-based news exploration platform with intelligent filtering and visualization.
 
