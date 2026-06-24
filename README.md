@@ -68,7 +68,7 @@ A personalized web experience built with modern frontend technologies.
 
 | Project | Contribution | Status |
 |---|---|---|
-| [worldmonitor](https://github.com/koala73/worldmonitor) | Self-hosted map atlas files, removed `cdn.jsdelivr.net` dependency from mobile map path — [#4383](https://github.com/koala73/worldmonitor/pull/4383) | 🟡 Open |
+| [worldmonitor](https://github.com/koala73/worldmonitor) | Self-hosted map atlas files, removed `cdn.jsdelivr.net` dependency from mobile map path — [#4383](https://github.com/koala73/worldmonitor/pull/4383) | ✅ Merged |
 | [ponytail](https://github.com/DietrichGebert/ponytail) | Added uninstall cleanup script for state outside plugin files — [#228](https://github.com/DietrichGebert/ponytail/pull/228) | ✅ Merged |
 
 ---
