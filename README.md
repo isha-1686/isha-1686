@@ -14,7 +14,6 @@ Full-Stack Developer  • Cloud & DevOps Enthusiast
 
 ## 🌱 Currently Learning
 
-- Git & GitHub Workflows
 - GitHub Actions & CI/CD
 - Docker & Containerization
 - Linux Fundamentals
@@ -62,6 +61,15 @@ Laundry management system focused on streamlined booking and tracking.
 
 ### 🎂 Birthday Website
 A personalized web experience built with modern frontend technologies.
+
+---
+
+## 🌱 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [worldmonitor](https://github.com/koala73/worldmonitor) | Self-hosted map atlas files, removed `cdn.jsdelivr.net` dependency from mobile map path — [#4383](https://github.com/koala73/worldmonitor/pull/4383) | 🟡 Open |
+| [ponytail](https://github.com/DietrichGebert/ponytail) | Added uninstall cleanup script for state outside plugin files — [#228](https://github.com/DietrichGebert/ponytail/pull/228) | ✅ Merged |
 
 ---
 
