@@ -53,14 +53,30 @@ A production-ready URL shortening platform built with a modern full-stack archit
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-### 📰 Localized News Explorer
-Region-based news exploration platform with intelligent filtering and visualization.
+----
 
-### 🧺 Easy Wash
-Laundry management system focused on streamlined booking and tracking.
+## 🎂 Birthday Celebration Site
 
-### 🎂 Birthday Website
-A personalized web experience built with modern frontend technologies.
+An open-source, fully customizable birthday celebration template — built as a riddle-locked, interactive experience with memories, a friendship trivia quiz, and a live guestbook.
+
+### ✨ Highlights
+
+- 🔒 Riddle-locked entry screen with hints and unlock animations
+- ⏳ Real-time countdown to the big day, with a celebration mode on launch
+- 📸 Memory Lane grid with category filtering, search, and detailed story modals
+- 🧩 Interactive trivia quiz with a scored compatibility rank
+- 💌 Live wishes & guestbook board with relationship tags and avatars
+- 🌗 Dark mode support with smooth transitions
+- ⚙️ Fully config-driven — fork it and customize via a single `siteConfig.ts` file or guided setup wizard, no code editing required
+
+### 🌐 Live Links
+
+- **Live Demo:** https://birthday-nine-blue.vercel.app
+- **Repository:** https://github.com/isha-1686/birthday
+
+### 🛠 Tech Stack
+
+`REACT` `TYPESCRIPT` `VITE` `TAILWIND CSS` `FRAMER MOTION` `GITHUB ACTIONS` `VERCEL`
 
 ---
 
